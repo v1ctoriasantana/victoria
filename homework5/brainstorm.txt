@@ -1,0 +1,18 @@
+1. Topics that sound interesting:
+- Exoplanets and the search for life
+- Quantum computing
+- Space debris tracking
+- Black hole simulations
+- Machine learning for climate modeling
+
+2. Related sources:
+- Exoplanets: NASA Exoplanet Archive — contains real discovery data about planets outside our solar system.
+- Quantum computing: IBM Quantum Experience — an online tool to experiment with real quantum computers.
+- Space debris tracking: ESA’s Space Debris Office publishes datasets tracking orbital debris.
+
+3. Chosen topic: Space debris tracking
+I could use Python to analyze orbital debris data — for example, looping over a dataset, filtering based on altitude, and plotting how debris accumulates over time.
+
+4. Possible projects:
+- Ambitious: Build a small dashboard (using matplotlib or Plotly) showing live orbital debris trends from a dataset.
+- Realistic: Write a Python script that reads a CSV file of debris data and outputs statistics (average altitude, count by object type, etc.).
